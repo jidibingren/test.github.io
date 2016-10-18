@@ -12,7 +12,8 @@ links:
   - name:         OS
     url:          /os
   - name:         Blog
-    url:          http://jidibingren.github.io
+    # url:          http://jidibingren.github.io
+    url:          /index
     external:     true
   - name:         GitHub
     url:          http://github.com/jidibingren
