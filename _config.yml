@@ -20,9 +20,10 @@ links:
   - name:         linux
     url:          /linux
   - name:         other
-    # url:          http://jidibingren.github.io
     url:          /other
-    # external:     true
+  - name:         Blog
+    url:          http://jidibingren.github.io
+    external:     true
   - name:         GitHub
     url:          http://github.com/jidibingren
     external:     true
