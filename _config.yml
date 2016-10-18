@@ -22,10 +22,10 @@ links:
   - name:         other
     # url:          http://jidibingren.github.io
     url:          /other
-    external:     true
+    # external:     true
   - name:         GitHub
     url:          http://github.com/jidibingren
-    # external:     true
+    external:     true
 highlighter:      pygments
 # permalink:        pretty
 permalink:        /:categories/:year/:month/:day/:title.html
