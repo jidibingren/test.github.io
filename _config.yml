@@ -10,18 +10,18 @@ links:
   - name:         About
     url:          /about
   - name:         iOS
-    url:          /_posts/iOS
+    url:          /iOS
   - name:         js
-    url:          /_posts/js
+    url:          /js
   - name:         c
-    url:          /_posts/c
+    url:          /c
   - name:         OS
-    url:          /_posts/os
+    url:          /os
   - name:         linux
-    url:          /_posts/linux
+    url:          /linux
   - name:         other
     # url:          http://jidibingren.github.io
-    url:          /_posts/other
+    url:          /other
     external:     true
   - name:         GitHub
     url:          http://github.com/jidibingren
