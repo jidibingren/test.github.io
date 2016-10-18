@@ -25,7 +25,7 @@ links:
     external:     true
   - name:         GitHub
     url:          http://github.com/jidibingren
-    external:     true
+    # external:     true
 highlighter:      pygments
 # permalink:        pretty
 permalink:        /:categories/:year/:month/:day/:title.html
