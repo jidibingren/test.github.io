@@ -18,7 +18,8 @@ links:
     url:          http://github.com/jidibingren
     external:     true
 highlighter:      pygments
-permalink:        pretty
+# permalink:        pretty
+permalink:        /:categories/:year/:month/:day/:title.html
 markdown:         redcarpet
 redcarpet:
   extensions:
