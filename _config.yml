@@ -9,11 +9,17 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         About
     url:          /about
-  - name:         OS
-    url:          /os
-  - name:         Blog
+  - name:         iOS
+    url:          /_posts/iOS
+  - name:         js
+    url:          /_posts/js
+  - name:         c
+    url:          /_posts/c
+  - name:         linux
+    url:          /_posts/linux
+  - name:         other
     # url:          http://jidibingren.github.io
-    url:          /index
+    url:          /_posts/other
     external:     true
   - name:         GitHub
     url:          http://github.com/jidibingren
